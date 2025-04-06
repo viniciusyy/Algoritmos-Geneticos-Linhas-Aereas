@@ -1,4 +1,4 @@
-# Algoritmos Genéticos - Linhas Aéreas (ALFA)
+# Algoritmos Genéticos - Linhas Aéreas
 
 Este projeto implementa um algoritmo genético para otimização da alocação de voos em uma companhia aérea. O objetivo é minimizar conflitos de horários e o uso excessivo de aeronaves, utilizando operadores clássicos dos algoritmos genéticos como seleção, mutação e cross-over.
 
